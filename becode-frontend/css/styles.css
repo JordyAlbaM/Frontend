@@ -1,0 +1,27 @@
+body
+{
+    background: rgb(185, 184, 219);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(42, 1, 70, 0.947) 35%, rgb(157, 78, 221) 100%);
+}
+.container h1
+{
+    color: rgb(223, 128, 5);
+}
+.tabla
+{
+    background: #26FFE0;
+    font-weight: 700;
+}
+
+.enlaces
+{
+    color: #111;
+    font-size: 1.2em;
+    transition: .5s;
+}
+.enlaces a:hover button
+{
+    background: black;
+    color: white;
+    transition: .5s;
+}
